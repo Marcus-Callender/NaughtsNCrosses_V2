@@ -1638,3 +1638,606 @@ LogInit: Object subsystem initialized
 [2017.03.30-15.21.27:485][821]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
 [2017.03.30-15.21.27:485][821]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
 [2017.03.30-15.21.27:485][821]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-15.25.02:160][636]LogDialogs:Warning: Suppressed: This could break connections, do you want to search all Variable 'm_lastNode' instances, change its type, and recompile?
+[2017.03.30-15.25.50:042][281]LogSavePackage: Save=47.76ms
+[2017.03.30-15.25.50:042][281]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/GameLevel_Auto3373EF75E47CC1FD77FC96ABDB55D9111.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto3.umap'
+[2017.03.30-15.25.50:046][281]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto3.umap
+[2017.03.30-15.25.50:050][281]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.093
+[2017.03.30-15.25.50:050][281]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.093
+[2017.03.30-15.25.50:053][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_CirclePiece] ([1] browsable assets)...
+[2017.03.30-15.25.50:070][281]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece]
+[2017.03.30-15.25.50:070][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_CirclePiece]
+[2017.03.30-15.25.50:171][281]LogSavePackage: Save=90.20ms
+[2017.03.30-15.25.50:171][281]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_CirclePiece_Auto3CE27E0F24123749CF73EE093ECF7A00B.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto3.uasset'
+[2017.03.30-15.25.50:174][281]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto3.uasset
+[2017.03.30-15.25.50:176][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.03.30-15.25.50:192][281]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.03.30-15.25.50:192][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.03.30-15.25.50:294][281]LogSavePackage: Save=90.70ms
+[2017.03.30-15.25.50:294][281]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_GameBoard_Auto38EF65BE74AF3DFB1FD7934B6AF890A7E.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto3.uasset'
+[2017.03.30-15.25.50:298][281]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto3.uasset
+[2017.03.30-15.25.50:298][281]LogFileHelpers: Auto-saving content packages took 0.247
+[2017.03.30-15.34.00:218][863]BlueprintLog: New page: Compile BP_GameBoard
+[2017.03.30-15.34.00:720][863]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-15.34.00:721][863]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-15.34.00:722][863]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-15.34.00:739][863]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-15.34.00:740][863]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-15.34.00:741][863]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-15.35.50:311][793]LogSavePackage: Save=50.19ms
+[2017.03.30-15.35.50:311][793]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/GameLevel_Auto4A1F8E7D94A1DE464F9ECDBAA9E2173C7.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto4.umap'
+[2017.03.30-15.35.50:314][793]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto4.umap
+[2017.03.30-15.35.50:318][793]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.094
+[2017.03.30-15.35.50:318][793]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.094
+[2017.03.30-15.35.50:321][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_CirclePiece] ([1] browsable assets)...
+[2017.03.30-15.35.50:337][793]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece]
+[2017.03.30-15.35.50:337][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_CirclePiece]
+[2017.03.30-15.35.50:443][793]LogSavePackage: Save=93.18ms
+[2017.03.30-15.35.50:444][793]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_CirclePiece_Auto4B1FD7096454428A4A18732A4A42B1CFE.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto4.uasset'
+[2017.03.30-15.35.50:447][793]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto4.uasset
+[2017.03.30-15.35.50:450][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.03.30-15.35.50:466][793]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.03.30-15.35.50:466][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.03.30-15.35.50:562][793]LogSavePackage: Save=83.96ms
+[2017.03.30-15.35.50:562][793]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_GameBoard_Auto491C9951C490625DD1E11D6872062F17E.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto4.uasset'
+[2017.03.30-15.35.50:565][793]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto4.uasset
+[2017.03.30-15.35.50:565][793]LogFileHelpers: Auto-saving content packages took 0.246
+[2017.03.30-15.46.37:586][542]LogEditorTransaction: Undo Add Node
+[2017.03.30-15.49.35:460][371]LogSavePackage: Save=50.08ms
+[2017.03.30-15.49.35:460][371]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/GameLevel_Auto5D5638A82481F9B48A64D60BB85FA1DD1.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto5.umap'
+[2017.03.30-15.49.35:464][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto5.umap
+[2017.03.30-15.49.35:468][371]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.167
+[2017.03.30-15.49.35:468][371]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.167
+[2017.03.30-15.49.35:472][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.03.30-15.49.35:484][371]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.03.30-15.49.35:484][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.03.30-15.49.35:615][371]LogSavePackage: Save=116.67ms
+[2017.03.30-15.49.35:615][371]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_GameBoard_Auto57C48668A472BFC726E8F9DAACB0AB284.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto5.uasset'
+[2017.03.30-15.49.35:618][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto5.uasset
+[2017.03.30-15.49.35:618][371]LogFileHelpers: Auto-saving content packages took 0.149
+[2017.03.30-15.52.22:489][480]LogEditorTransaction: Undo Create Pin Link
+[2017.03.30-15.52.23:916][630]LogEditorTransaction: Undo Break Pin Links
+[2017.03.30-15.52.25:021][745]LogEditorTransaction: Undo Break Pin Links
+[2017.03.30-15.52.27:261][997]LogEditorTransaction: Undo Move Node
+[2017.03.30-15.52.29:088][199]LogEditorTransaction: Undo Create Pin Link
+[2017.03.30-15.52.29:443][224]LogEditorTransaction: Undo Create Pin Link
+[2017.03.30-15.52.29:758][245]LogEditorTransaction: Undo Add Node
+[2017.03.30-15.59.35:603][507]LogSavePackage: Save=53.88ms
+[2017.03.30-15.59.35:603][507]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/GameLevel_Auto6B19D33024918741ABB81F6B935EF65DA.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto6.umap'
+[2017.03.30-15.59.35:606][507]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto6.umap
+[2017.03.30-15.59.35:609][507]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.105
+[2017.03.30-15.59.35:609][507]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.105
+[2017.03.30-15.59.35:613][507]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.03.30-15.59.35:636][507]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.03.30-15.59.35:636][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.03.30-15.59.35:754][507]LogSavePackage: Save=105.81ms
+[2017.03.30-15.59.35:754][507]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_GameBoard_Auto6FCA25C32427425C1524A668B8BA98208.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto6.uasset'
+[2017.03.30-15.59.35:757][507]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto6.uasset
+[2017.03.30-15.59.35:757][507]LogFileHelpers: Auto-saving content packages took 0.147
+[2017.03.30-16.56.07:292][664]BlueprintLog: New page: Compile BP_GameBoard
+[2017.03.30-16.56.07:561][664]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-16.56.07:562][664]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-16.56.07:563][664]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-16.56.39:601][638]LogSavePackage: Save=45.80ms
+[2017.03.30-16.56.39:601][638]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/GameLevel_Auto74EB2928641F2CF40AE4A44BB6597C17B.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto7.umap'
+[2017.03.30-16.56.39:604][638]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto7.umap
+[2017.03.30-16.56.39:607][638]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.196
+[2017.03.30-16.56.39:607][638]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.196
+[2017.03.30-16.56.39:610][638]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_CirclePiece] ([1] browsable assets)...
+[2017.03.30-16.56.39:626][638]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece]
+[2017.03.30-16.56.39:626][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_CirclePiece]
+[2017.03.30-16.56.39:748][638]LogSavePackage: Save=88.76ms
+[2017.03.30-16.56.39:748][638]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_CirclePiece_Auto79C21312C444E26B8944B0AB56CC856D3.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto7.uasset'
+[2017.03.30-16.56.39:751][638]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_CirclePiece_Auto7.uasset
+[2017.03.30-16.56.39:753][638]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.03.30-16.56.39:769][638]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.03.30-16.56.39:769][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.03.30-16.56.39:906][638]LogSavePackage: Save=90.70ms
+[2017.03.30-16.56.39:906][638]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_GameBoard_Auto7C29C3B7740E88A762EBA8C8B040EA97B.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto7.uasset'
+[2017.03.30-16.56.39:910][638]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto7.uasset
+[2017.03.30-16.56.39:910][638]LogFileHelpers: Auto-saving content packages took 0.302
+[2017.03.30-17.12.28:140][297]LogSavePackage: Save=49.72ms
+[2017.03.30-17.12.28:140][297]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/GameLevel_Auto872FD6F1342E569C0E9F4F49784E94B6F.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto8.umap'
+[2017.03.30-17.12.28:143][297]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Levels/GameLevel_Auto8.umap
+[2017.03.30-17.12.28:146][297]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/GameLevel' took 0.123
+[2017.03.30-17.12.28:146][297]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.123
+[2017.03.30-17.12.28:149][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/BP_GameBoard] ([1] browsable assets)...
+[2017.03.30-17.12.28:166][297]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_GameBoard.BP_GameBoard]
+[2017.03.30-17.12.28:166][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_GameBoard]
+[2017.03.30-17.12.28:267][297]LogSavePackage: Save=89.32ms
+[2017.03.30-17.12.28:267][297]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_GameBoard_Auto87222A58D460CD8E2A380CDBDE7E0E67F.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto8.uasset'
+[2017.03.30-17.12.28:279][297]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Autosaves/Game/Assets/Blueprints/BP_GameBoard_Auto8.uasset
+[2017.03.30-17.12.28:279][297]LogFileHelpers: Auto-saving content packages took 0.132
+[2017.03.30-17.17.30:647][972]LogEditorTransaction: Undo Delete current selection
+[2017.03.30-17.21.25:435][890]LogHttp:Warning: 00000134576B4D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.03.30-17.21.25:435][890]LogHttp:Warning: 00000134576B4D00: libcurl info message cache 0 (Connection 45 seems to be dead!)
+[2017.03.30-17.21.25:435][890]LogHttp:Warning: 00000134576B4D00: libcurl info message cache 1 (Closing connection 45)
+[2017.03.30-17.21.25:435][890]LogHttp:Warning: 00000134576B4D00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.03.30-17.21.25:435][890]LogHttp:Warning: 00000134576B4D00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.03.30-17.21.25:435][890]LogHttp:Warning: 00000134576B4D00: libcurl info message cache 4 (Closing connection 46)
+[2017.03.30-17.23.02:008][442]LogHttp:Warning: 00000134583BEB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.03.30-17.23.02:008][442]LogHttp:Warning: 00000134583BEB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.03.30-17.23.02:008][442]LogHttp:Warning: 00000134583BEB00: libcurl info message cache 1 (Closing connection 47)
+[2017.03.30-17.48.49:675][880]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-17.48.49:689][880]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.30-17.48.49:689][880]LogPlayLevel: [PlayLevel] Compiling BP_GameBoard before play...
+[2017.03.30-17.48.50:028][880]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.48.50:029][880]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.48.50:030][880]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.48.50:048][880]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.48.50:049][880]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.48.50:050][880]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.48.50:088][880]LogPlayLevel: PlayLevel: Blueprint regeneration took 398 ms (1 blueprints)
+[2017.03.30-17.48.50:088][880]PIE: New page: PIE session: GameLevel (30 Mar 2017 19:48:50)
+[2017.03.30-17.48.50:088][880]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.03.30-17.48.50:092][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003646s)
+[2017.03.30-17.48.50:092][880]LogAIModule: Creating AISystem for world GameLevel
+[2017.03.30-17.48.50:092][880]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2017.03.30-17.48.50:092][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.004496s)
+[2017.03.30-17.48.50:112][880]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-17.48.50:120][880]LogInit: FAudioDevice initialized.
+[2017.03.30-17.48.50:147][880]LogLoad: Game class is 'BP_GameMode_C'
+[2017.03.30-17.48.50:150][880]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.03.30-18.48.50
+[2017.03.30-17.48.50:150][880]LogWorld: Bringing up level for play took: 0.001951
+[2017.03.30-17.48.50:166][880]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel -0.229
+[2017.03.30-17.48.51:265][  8]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.51:265][  8]LogBlueprintUserMessages: [BP_GameBoard] Victory TR2BL
+[2017.03.30-17.48.51:265][  8]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.48.54:306][373]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.54:306][373]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.48.54:306][373]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.48.54:306][373]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.54:306][373]LogBlueprintUserMessages: [BP_GameBoard] Victory TR2BL
+[2017.03.30-17.48.54:306][373]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.48.55:698][540]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.55:698][540]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.48.55:698][540]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.48.57:315][734]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.57:315][734]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.48.57:315][734]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.48.57:315][734]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.57:315][734]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.48.57:315][734]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.48.57:315][734]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.57:315][734]LogBlueprintUserMessages: [BP_GameBoard] Victory TR2BL
+[2017.03.30-17.48.57:315][734]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.48.58:931][928]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.58:931][928]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.48.58:931][928]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.48.58:931][928]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.58:931][928]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.48.58:931][928]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.48.58:931][928]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.48.58:931][928]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.48.58:931][928]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] Victory TR2BL
+[2017.03.30-17.49.02:273][329]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.49.09:232][123]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.30-17.49.10:009][186]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.30-17.49.40:728][766]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.40:729][766]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.40:730][766]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.51:635][ 26]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-17.49.51:756][ 26]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.30-17.49.51:756][ 26]LogPlayLevel: [PlayLevel] Compiling BP_CirclePiece before play...
+[2017.03.30-17.49.53:121][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece17_3063
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:188][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece16_3052
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:188][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece16_3052
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:188][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece16_3052
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:256][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece15_2661
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:256][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece15_2661
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:256][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece15_2661
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:256][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece15_2661
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:256][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece15_2661
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:323][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece14_2650
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:323][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece14_2650
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:323][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece14_2650
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:323][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece14_2650
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:323][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece14_2650
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:323][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece14_2650
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:323][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece14_2650
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:390][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece13_2639
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:457][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece12_2628
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:457][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece12_2628
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:457][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece12_2628
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:458][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece12_2628
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:458][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece12_2628
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:458][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece12_2628
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:525][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece11_2617
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:525][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece11_2617
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:525][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece11_2617
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:525][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece11_2617
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:593][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece10_2401
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:593][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Game/Assets/Levels/GameLevel.GameLevel:PersistentLevel.BP_CirclePiece10_2401
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:728][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.53:728][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Engine/Transient.World_1:PersistentLevel.BP_CirclePiece_C_0
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:02D0
+[2017.03.30-17.49.53:728][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Engine/Transient.World_1:PersistentLevel.BP_CirclePiece_C_0
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:072B
+[2017.03.30-17.49.53:728][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Engine/Transient.World_1:PersistentLevel.BP_CirclePiece_C_0
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:0874
+[2017.03.30-17.49.53:728][ 26]LogScript:Warning: Accessed None trying to read property SM_BaseCircle
+	BP_CirclePiece_C /Engine/Transient.World_1:PersistentLevel.BP_CirclePiece_C_0
+	Function /Game/Assets/Blueprints/BP_CirclePiece.BP_CirclePiece_C:UserConstructionScript:09E6
+[2017.03.30-17.49.53:795][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.53:863][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.53:949][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.53:950][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.53:951][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.53:951][ 26]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array CallFunc_GetAllActorsOfClass_OutActors2 of length 0!
+[2017.03.30-17.49.53:976][ 26]LogPlayLevel: PlayLevel: Blueprint regeneration took 2220 ms (1 blueprints)
+[2017.03.30-17.49.53:976][ 26]PIE: New page: PIE session: GameLevel (30 Mar 2017 19:49:53)
+[2017.03.30-17.49.53:976][ 26]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_GameLevel
+[2017.03.30-17.49.53:980][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003838s)
+[2017.03.30-17.49.53:981][ 26]LogAIModule: Creating AISystem for world GameLevel
+[2017.03.30-17.49.53:981][ 26]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2017.03.30-17.49.53:981][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/GameLevel.GameLevel to /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel (0.004749s)
+[2017.03.30-17.49.53:998][ 26]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-17.49.54:005][ 26]LogInit: FAudioDevice initialized.
+[2017.03.30-17.49.54:037][ 26]LogLoad: Game class is 'BP_GameMode_C'
+[2017.03.30-17.49.54:039][ 26]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.03.30-18.49.54
+[2017.03.30-17.49.54:039][ 26]LogWorld: Bringing up level for play took: 0.001556
+[2017.03.30-17.49.54:053][ 26]PIE: Info Play in editor start time for /Game/Assets/Levels/UEDPIE_0_GameLevel 1.659
+[2017.03.30-17.50.04:258][502]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.50.04:258][502]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.50.04:258][502]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.50.04:258][502]LogBlueprintUserMessages: [BP_GameBoard] TR2BL Start
+[2017.03.30-17.50.04:258][502]LogBlueprintUserMessages: [BP_GameBoard] TR2BL node not valid
+[2017.03.30-17.50.04:258][502]LogBlueprintUserMessages: [BP_GameBoard] Victory TL2BR
+[2017.03.30-17.50.10:768][874]LogSavePackage: Save=92.37ms
+[2017.03.30-17.50.10:768][874]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_CirclePiece129ACA4346205E1513983B8F1078B458.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/Assets/Blueprints/BP_CirclePiece.uasset'
+[2017.03.30-17.50.10:774][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/Assets/Blueprints/BP_CirclePiece.uasset
+[2017.03.30-17.50.10:889][874]LogSavePackage: Save=89.67ms
+[2017.03.30-17.50.10:889][874]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/BP_GameBoardCABCF52343206F6C089404A001B07E03.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/Assets/Blueprints/BP_GameBoard.uasset'
+[2017.03.30-17.50.10:895][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/Assets/Blueprints/BP_GameBoard.uasset
+[2017.03.30-17.50.11:316][874]LogSavePackage: Save=43.39ms
+[2017.03.30-17.50.11:316][874]LogSavePackage: Moving '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/GameLevelFBCB5C084A88AD3B2BF2A68C0BDA9BD5.tmp' to '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/Assets/Levels/GameLevel.umap'
+[2017.03.30-17.50.11:322][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/Assets/Levels/GameLevel.umap
+[2017.03.30-17.50.11:336][874]LogFileHelpers: Saving map 'GameLevel' took 0.437
+[2017.03.30-17.50.11:494][874]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.30-17.50.11:574][874]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.30-17.50.11:979][875]Cmd: QUIT_EDITOR
+[2017.03.30-17.50.12:792][875]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.30-17.50.12:913][875]LogExit: Preparing to exit.
+[2017.03.30-17.50.13:999][875]LogDirectoryWatcher: A directory notification for 'C:/Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/' was aborted.
+[2017.03.30-17.50.14:235][875]LogExit: Editor shut down
+[2017.03.30-17.50.14:236][875]LogExit: Transaction tracking system shut down
+[2017.03.30-17.50.16:464][875]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.30-17.50.16:464][875]LogExit: Object subsystem successfully closed.
+[2017.03.30-17.50.16:635][875]LogD3D11RHI: Shutdown
+[2017.03.30-17.50.16:635][875]LogD3D11RHI: CleanupD3DDevice
+[2017.03.30-17.50.16:845][875]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.03.30-17.50.17:989][875]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (504)
+[2017.03.30-17.50.17:989][875]LogModuleManager: Shutting down and abandoning module BlueprintGraph (502)
+[2017.03.30-17.50.17:989][875]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (500)
+[2017.03.30-17.50.18:049][875]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (498)
+[2017.03.30-17.50.18:078][875]LogModuleManager: Shutting down and abandoning module CrashTracker (496)
+[2017.03.30-17.50.18:078][875]LogModuleManager: Shutting down and abandoning module SceneOutliner (494)
+[2017.03.30-17.50.18:079][875]LogModuleManager: Shutting down and abandoning module AddContentDialog (492)
+[2017.03.30-17.50.18:106][875]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.15/FeaturePacks/' was aborted.
+[2017.03.30-17.50.18:109][875]LogModuleManager: Shutting down and abandoning module WidgetCarousel (491)
+[2017.03.30-17.50.18:109][875]LogModuleManager: Shutting down and abandoning module EditorWidgets (488)
+[2017.03.30-17.50.18:109][875]LogModuleManager: Shutting down and abandoning module CollectionManager (486)
+[2017.03.30-17.50.18:127][875]LogDirectoryWatcher: A directory notification for 'C:/Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/Collections/' was aborted.
+[2017.03.30-17.50.18:127][875]LogDirectoryWatcher: A directory notification for 'C:/Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/Developers/Marcus/Collections/' was aborted.
+[2017.03.30-17.50.18:127][875]LogDirectoryWatcher: A directory notification for 'C:/Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Saved/Collections/' was aborted.
+[2017.03.30-17.50.18:127][875]LogModuleManager: Shutting down and abandoning module StatsViewer (484)
+[2017.03.30-17.50.18:143][875]LogModuleManager: Shutting down and abandoning module FoliageEdit (482)
+[2017.03.30-17.50.18:143][875]LogModuleManager: Shutting down and abandoning module LandscapeEditor (480)
+[2017.03.30-17.50.18:156][875]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (478)
+[2017.03.30-17.50.18:156][875]LogModuleManager: Shutting down and abandoning module ActorPickerMode (476)
+[2017.03.30-17.50.18:156][875]LogModuleManager: Shutting down and abandoning module GeometryMode (474)
+[2017.03.30-17.50.18:156][875]LogModuleManager: Shutting down and abandoning module TextureAlignMode (472)
+[2017.03.30-17.50.18:156][875]LogModuleManager: Shutting down and abandoning module BspMode (470)
+[2017.03.30-17.50.18:169][875]LogModuleManager: Shutting down and abandoning module HardwareSurvey (468)
+[2017.03.30-17.50.18:189][875]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (466)
+[2017.03.30-17.50.18:199][875]LogModuleManager: Shutting down and abandoning module AutomationWorker (464)
+[2017.03.30-17.50.18:203][875]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (462)
+[2017.03.30-17.50.18:219][875]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (460)
+[2017.03.30-17.50.18:287][875]LogModuleManager: Shutting down and abandoning module PlacementMode (459)
+[2017.03.30-17.50.18:287][875]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (456)
+[2017.03.30-17.50.18:287][875]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (454)
+[2017.03.30-17.50.18:287][875]LogModuleManager: Shutting down and abandoning module MfMediaFactory (452)
+[2017.03.30-17.50.18:287][875]LogModuleManager: Shutting down and abandoning module MfMediaEditor (450)
+[2017.03.30-17.50.18:287][875]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (448)
+[2017.03.30-17.50.18:287][875]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (446)
+[2017.03.30-17.50.18:288][875]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (444)
+[2017.03.30-17.50.18:288][875]LogModuleManager: Shutting down and abandoning module Media (443)
+[2017.03.30-17.50.18:288][875]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (440)
+[2017.03.30-17.50.18:288][875]LogModuleManager: Shutting down and abandoning module CharacterAI (438)
+[2017.03.30-17.50.18:288][875]LogModuleManager: Shutting down and abandoning module AudioCapture (436)
+[2017.03.30-17.50.18:296][875]LogModuleManager: Shutting down and abandoning module SequenceRecorder (435)
+[2017.03.30-17.50.18:323][875]LogModuleManager: Shutting down and abandoning module SmartSnapping (432)
+[2017.03.30-17.50.18:323][875]LogModuleManager: Shutting down and abandoning module SessionServices (430)
+[2017.03.30-17.50.18:323][875]LogModuleManager: Shutting down and abandoning module ViewportSnapping (428)
+[2017.03.30-17.50.18:323][875]LogModuleManager: Shutting down and abandoning module ViewportInteraction (426)
+[2017.03.30-17.50.18:323][875]LogModuleManager: Shutting down and abandoning module LogVisualizer (424)
+[2017.03.30-17.50.18:344][875]LogModuleManager: Shutting down and abandoning module IntroTutorials (422)
+[2017.03.30-17.50.18:365][875]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (421)
+[2017.03.30-17.50.18:393][875]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (418)
+[2017.03.30-17.50.18:393][875]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (416)
+[2017.03.30-17.50.18:393][875]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (414)
+[2017.03.30-17.50.18:393][875]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (412)
+[2017.03.30-17.50.18:406][875]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (411)
+[2017.03.30-17.50.18:918][875]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (408)
+[2017.03.30-17.50.18:918][875]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (406)
+[2017.03.30-17.50.18:918][875]LogModuleManager: Shutting down and abandoning module InputBindingEditor (404)
+[2017.03.30-17.50.18:940][875]LogModuleManager: Shutting down and abandoning module NiagaraEditor (402)
+[2017.03.30-17.50.18:970][875]LogModuleManager: Shutting down and abandoning module MergeActors (400)
+[2017.03.30-17.50.18:981][875]LogModuleManager: Shutting down and abandoning module SizeMap (398)
+[2017.03.30-17.50.18:999][875]LogModuleManager: Shutting down and abandoning module TreeMap (396)
+[2017.03.30-17.50.19:007][875]LogModuleManager: Shutting down and abandoning module ReferenceViewer (394)
+[2017.03.30-17.50.19:007][875]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (392)
+[2017.03.30-17.50.19:020][875]LogModuleManager: Shutting down and abandoning module LocalizationService (391)
+[2017.03.30-17.50.19:041][875]LogModuleManager: Shutting down and abandoning module HardwareTargeting (388)
+[2017.03.30-17.50.19:045][875]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (386)
+[2017.03.30-17.50.19:063][875]LogModuleManager: Shutting down and abandoning module UndoHistory (384)
+[2017.03.30-17.50.19:072][875]LogModuleManager: Shutting down and abandoning module UserFeedback (382)
+[2017.03.30-17.50.19:072][875]LogModuleManager: Shutting down and abandoning module XmlParser (380)
+[2017.03.30-17.50.19:093][875]LogModuleManager: Shutting down and abandoning module Blutility (378)
+[2017.03.30-17.50.19:109][875]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (376)
+[2017.03.30-17.50.19:110][875]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (375)
+[2017.03.30-17.50.19:110][875]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (372)
+[2017.03.30-17.50.19:110][875]LogModuleManager: Shutting down and abandoning module SettingsEditor (370)
+[2017.03.30-17.50.19:127][875]LogModuleManager: Shutting down and abandoning module ProjectLauncher (368)
+[2017.03.30-17.50.19:142][875]LogModuleManager: Shutting down and abandoning module SessionFrontend (366)
+[2017.03.30-17.50.19:154][875]LogModuleManager: Shutting down and abandoning module ProfilerClient (364)
+[2017.03.30-17.50.19:174][875]LogModuleManager: Shutting down and abandoning module DeviceManager (362)
+[2017.03.30-17.50.19:188][875]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (361)
+[2017.03.30-17.50.19:239][875]LogModuleManager: Shutting down and abandoning module AutomationController (358)
+[2017.03.30-17.50.19:251][875]LogModuleManager: Shutting down and abandoning module AutomationWindow (356)
+[2017.03.30-17.50.19:271][875]LogModuleManager: Shutting down and abandoning module Layers (354)
+[2017.03.30-17.50.19:294][875]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (352)
+[2017.03.30-17.50.19:294][875]LogModuleManager: Shutting down and abandoning module DetailCustomizations (350)
+[2017.03.30-17.50.19:303][875]LogModuleManager: Shutting down and abandoning module PackagesDialog (348)
+[2017.03.30-17.50.19:303][875]LogModuleManager: Shutting down and abandoning module Persona (346)
+[2017.03.30-17.50.19:325][875]LogModuleManager: Shutting down and abandoning module AnimGraph (345)
+[2017.03.30-17.50.19:325][875]LogModuleManager: Shutting down and abandoning module Kismet (342)
+[2017.03.30-17.50.19:340][875]LogModuleManager: Shutting down and abandoning module GraphEditor (340)
+[2017.03.30-17.50.19:341][875]LogModuleManager: Shutting down and abandoning module ClassViewer (338)
+[2017.03.30-17.50.19:342][875]LogModuleManager: Shutting down and abandoning module Toolbox (336)
+[2017.03.30-17.50.19:347][875]LogModuleManager: Shutting down and abandoning module ModuleUI (334)
+[2017.03.30-17.50.19:359][875]LogModuleManager: Shutting down and abandoning module MovieSceneTools (332)
+[2017.03.30-17.50.19:374][875]LogModuleManager: Shutting down and abandoning module OutputLog (330)
+[2017.03.30-17.50.19:387][875]LogModuleManager: Shutting down and abandoning module GammaUI (328)
+[2017.03.30-17.50.19:402][875]LogModuleManager: Shutting down and abandoning module Documentation (326)
+[2017.03.30-17.50.19:402][875]LogModuleManager: Shutting down and abandoning module Niagara (324)
+[2017.03.30-17.50.19:402][875]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (322)
+[2017.03.30-17.50.19:402][875]LogModuleManager: Shutting down and abandoning module AnalyticsET (320)
+[2017.03.30-17.50.19:402][875]LogModuleManager: Shutting down and abandoning module PortalServices (318)
+[2017.03.30-17.50.19:402][875]LogModuleManager: Shutting down and abandoning module PortalRpc (316)
+[2017.03.30-17.50.19:402][875]LogModuleManager: Shutting down and abandoning module MessagingRpc (314)
+[2017.03.30-17.50.19:402][875]LogModuleManager: Shutting down and abandoning module AIModule (312)
+[2017.03.30-17.50.19:402][875]LogModuleManager: Shutting down and abandoning module GameplayDebugger (311)
+[2017.03.30-17.50.19:420][875]LogModuleManager: Shutting down and abandoning module AITestSuite (309)
+[2017.03.30-17.50.19:420][875]LogModuleManager: Shutting down and abandoning module ProfilerService (306)
+[2017.03.30-17.50.19:623][875]LogModuleManager: Shutting down and abandoning module TaskGraph (304)
+[2017.03.30-17.50.19:632][875]LogModuleManager: Shutting down and abandoning module SteamVRController (302)
+[2017.03.30-17.50.19:632][875]LogModuleManager: Shutting down and abandoning module SteamVR (300)
+[2017.03.30-17.50.19:632][875]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (298)
+[2017.03.30-17.50.19:632][875]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (296)
+[2017.03.30-17.50.19:646][875]LogModuleManager: Shutting down and abandoning module OculusLibrary (294)
+[2017.03.30-17.50.19:646][875]LogModuleManager: Shutting down and abandoning module OculusInput (292)
+[2017.03.30-17.50.19:646][875]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (290)
+[2017.03.30-17.50.19:646][875]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (288)
+[2017.03.30-17.50.19:646][875]LogModuleManager: Shutting down and abandoning module CableComponent (286)
+[2017.03.30-17.50.19:653][875]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (284)
+[2017.03.30-17.50.19:653][875]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (280)
+[2017.03.30-17.50.19:678][875]LogModuleManager: Shutting down and abandoning module HTML5Networking (278)
+[2017.03.30-17.50.19:678][875]LogModuleManager: Shutting down and abandoning module AlembicImporter (276)
+[2017.03.30-17.50.19:686][875]LogModuleManager: Shutting down and abandoning module AlembicLibrary (275)
+[2017.03.30-17.50.19:686][875]LogModuleManager: Shutting down and abandoning module GeometryCache (274)
+[2017.03.30-17.50.19:692][875]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (273)
+[2017.03.30-17.50.19:692][875]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (268)
+[2017.03.30-17.50.19:692][875]LogModuleManager: Shutting down and abandoning module SuperSearch (267)
+[2017.03.30-17.50.19:692][875]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (264)
+[2017.03.30-17.50.19:692][875]LogModuleManager: Shutting down and abandoning module PluginBrowser (262)
+[2017.03.30-17.50.19:717][875]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (260)
+[2017.03.30-17.50.19:729][875]LogModuleManager: Shutting down and abandoning module EpicSurvey (258)
+[2017.03.30-17.50.19:729][875]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (256)
+[2017.03.30-17.50.19:729][875]LogModuleManager: Shutting down and abandoning module DesktopPlatform (255)
+[2017.03.30-17.50.19:729][875]LogModuleManager: Shutting down and abandoning module UObjectPlugin (252)
+[2017.03.30-17.50.19:729][875]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (250)
+[2017.03.30-17.50.19:739][875]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (248)
+[2017.03.30-17.50.19:755][875]LogModuleManager: Shutting down and abandoning module GitSourceControl (246)
+[2017.03.30-17.50.19:774][875]LogModuleManager: Shutting down and abandoning module SourceControl (245)
+[2017.03.30-17.50.19:774][875]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (242)
+[2017.03.30-17.50.19:774][875]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (240)
+[2017.03.30-17.50.19:774][875]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (238)
+[2017.03.30-17.50.19:774][875]LogModuleManager: Shutting down and abandoning module Paper2DEditor (236)
+[2017.03.30-17.50.19:796][875]LogModuleManager: Shutting down and abandoning module MeshPaint (235)
+[2017.03.30-17.50.19:801][875]LogModuleManager: Shutting down and abandoning module LevelEditor (233)
+[2017.03.30-17.50.19:821][875]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (232)
+[2017.03.30-17.50.19:839][875]LogModuleManager: Shutting down and abandoning module MainFrame (230)
+[2017.03.30-17.50.19:839][875]LogModuleManager: Shutting down and abandoning module HotReload (229)
+[2017.03.30-17.50.19:867][875]LogModuleManager: Shutting down and abandoning module ContentBrowser (225)
+[2017.03.30-17.50.19:867][875]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (222)
+[2017.03.30-17.50.19:876][875]LogModuleManager: Shutting down and abandoning module PhysXVehicles (220)
+[2017.03.30-17.50.19:876][875]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (218)
+[2017.03.30-17.50.19:876][875]LogModuleManager: Shutting down and abandoning module UdpMessaging (216)
+[2017.03.30-17.50.19:977][875]LogModuleManager: Shutting down and abandoning module TcpMessaging (214)
+[2017.03.30-17.50.20:088][875]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (212)
+[2017.03.30-17.50.20:108][875]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (210)
+[2017.03.30-17.50.20:120][875]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2017.03.30-17.50.20:121][875]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (206)
+[2017.03.30-17.50.20:121][875]LogModuleManager: Shutting down and abandoning module Paper2D (204)
+[2017.03.30-17.50.20:139][875]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (202)
+[2017.03.30-17.50.20:155][875]LogModuleManager: Shutting down and abandoning module WmfMedia (200)
+[2017.03.30-17.50.20:169][875]LogModuleManager: Shutting down and abandoning module MfMedia (198)
+[2017.03.30-17.50.20:169][875]LogModuleManager: Shutting down and abandoning module MediaAssets (196)
+[2017.03.30-17.50.20:169][875]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (194)
+[2017.03.30-17.50.20:181][875]LogModuleManager: Shutting down and abandoning module VREditor (192)
+[2017.03.30-17.50.20:181][875]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (190)
+[2017.03.30-17.50.20:181][875]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (188)
+[2017.03.30-17.50.20:211][875]LogModuleManager: Shutting down and abandoning module FunctionalTesting (186)
+[2017.03.30-17.50.20:211][875]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (184)
+[2017.03.30-17.50.20:224][875]LogModuleManager: Shutting down and abandoning module UMG (182)
+[2017.03.30-17.50.20:238][875]LogModuleManager: Shutting down and abandoning module UMGEditor (181)
+[2017.03.30-17.50.20:263][875]LogModuleManager: Shutting down and abandoning module Sequencer (180)
+[2017.03.30-17.50.20:290][875]LogModuleManager: Shutting down and abandoning module AssetTools (178)
+[2017.03.30-17.50.20:314][875]LogModuleManager: Shutting down and abandoning module MessageLog (177)
+[2017.03.30-17.50.20:314][875]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (176)
+[2017.03.30-17.50.20:314][875]LogModuleManager: Shutting down and abandoning module SlateReflector (170)
+[2017.03.30-17.50.20:340][875]LogModuleManager: Shutting down and abandoning module Slate (168)
+[2017.03.30-17.50.20:340][875]LogModuleManager: Shutting down and abandoning module EditorStyle (166)
+[2017.03.30-17.50.20:352][875]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2017.03.30-17.50.20:368][875]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2017.03.30-17.50.20:368][875]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2017.03.30-17.50.20:368][875]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2017.03.30-17.50.20:368][875]LogModuleManager: Shutting down and abandoning module Core (154)
+[2017.03.30-17.50.20:368][875]LogModuleManager: Shutting down and abandoning module AssetRegistry (152)
+[2017.03.30-17.50.20:611][875]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.03.30-17.50.20:611][875]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Marcus/Desktop/GitHub/NaughtsNCrosses_V2/NaughtsNCrosses 4.15/Content/' was aborted.
+[2017.03.30-17.50.20:611][875]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.03.30-17.50.20:630][875]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (151)
+[2017.03.30-17.50.20:630][875]LogModuleManager: Shutting down and abandoning module KismetCompiler (148)
+[2017.03.30-17.50.20:630][875]LogModuleManager: Shutting down and abandoning module PhysXFormats (146)
+[2017.03.30-17.50.20:630][875]LogModuleManager: Shutting down and abandoning module MeshUtilities (144)
+[2017.03.30-17.50.20:657][875]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (143)
+[2017.03.30-17.50.20:665][875]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (141)
+[2017.03.30-17.50.20:665][875]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (139)
+[2017.03.30-17.50.20:674][875]LogModuleManager: Shutting down and abandoning module PropertyEditor (137)
+[2017.03.30-17.50.20:674][875]LogModuleManager: Shutting down and abandoning module DerivedDataCache (134)
+[2017.03.30-17.50.20:726][875]LogDerivedDataCache: Shutdown
+[2017.03.30-17.50.20:726][875]LogModuleManager: Shutting down and abandoning module TargetPlatform (132)
+[2017.03.30-17.50.20:726][875]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (131)
+[2017.03.30-17.50.20:744][875]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (129)
+[2017.03.30-17.50.20:771][875]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (127)
+[2017.03.30-17.50.20:786][875]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (125)
+[2017.03.30-17.50.20:814][875]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (123)
+[2017.03.30-17.50.20:814][875]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (121)
+[2017.03.30-17.50.20:814][875]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (119)
+[2017.03.30-17.50.20:828][875]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (117)
+[2017.03.30-17.50.20:846][875]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (115)
+[2017.03.30-17.50.20:846][875]LogModuleManager: Shutting down and abandoning module ImageWrapper (114)
+[2017.03.30-17.50.20:846][875]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (111)
+[2017.03.30-17.50.20:846][875]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (109)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (107)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (105)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (103)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (101)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (99)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (97)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (95)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module Messaging (93)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (91)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (89)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (87)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (85)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (83)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (81)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (79)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (77)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (75)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (73)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (71)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (69)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (67)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (65)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (63)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (61)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (59)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (57)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (55)
+[2017.03.30-17.50.20:857][875]LogModuleManager: Shutting down and abandoning module InputCore (52)
+[2017.03.30-17.50.20:858][875]LogModuleManager: Shutting down and abandoning module Settings (50)
+[2017.03.30-17.50.20:858][875]LogModuleManager: Shutting down and abandoning module OculusRift (48)
+[2017.03.30-17.50.20:867][875]LogModuleManager: Shutting down and abandoning module GearVR (46)
+[2017.03.30-17.50.20:867][875]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (44)
+[2017.03.30-17.50.20:867][875]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (42)
+[2017.03.30-17.50.20:867][875]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (38)
+[2017.03.30-17.50.20:867][875]LogOnline:Display: Unloading online subsystem: NULL
+[2017.03.30-17.50.20:886][875]LogModuleManager: Shutting down and abandoning module XMPP (37)
+[2017.03.30-17.50.20:898][875]LogModuleManager: Shutting down and abandoning module HTTP (35)
+[2017.03.30-17.50.20:914][875]LogHttp:Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.03.30-17.50.20:914][875]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94B29E26-433F-CA8E-7F15-CD9199B239AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.15.1-3348071%2B%2B%2BUE4%2BRelease-4.15&UserID=97d3f40d403ff4a258d6f980a741b4dc%7C969837ba78db4a5a8b4180254925176e%7C81706c51-5e4d-4c53-8181-bc8c50ced6a7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.30-17.50.20:914][875]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B94B29E26-433F-CA8E-7F15-CD9199B239AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.15.1-3348071%2B%2B%2BUE4%2BRelease-4.15&UserID=97d3f40d403ff4a258d6f980a741b4dc%7C969837ba78db4a5a8b4180254925176e%7C81706c51-5e4d-4c53-8181-bc8c50ced6a7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.30-17.50.20:934][875]LogModuleManager: Shutting down and abandoning module SSL (34)
+[2017.03.30-17.50.20:948][875]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.03.30-17.50.20:972][875]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.03.30-17.50.21:012][875]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.03.30-17.50.21:012][875]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.03.30-17.50.21:012][875]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.03.30-17.50.21:043][875]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.03.30-17.50.21:052][875]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.03.30-17.50.21:052][875]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.03.30-17.50.21:071][875]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.03.30-17.50.21:071][875]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.03.30-17.50.21:071][875]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.03.30-17.50.21:071][875]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.03.30-17.50.21:089][875]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.03.30-17.50.21:099][875]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.03.30-17.50.21:099][875]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.03.30-17.50.21:123][875]LogExit: Exiting.
+[2017.03.30-17.50.21:140][875]Log file closed, 03/30/17 18:50:21
